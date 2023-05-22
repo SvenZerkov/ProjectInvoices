@@ -1,0 +1,9 @@
+﻿Description;Quantity;Unit;UnitPrice;Vat%;VatAmount;TotalRowAmount;InvoiceNumber;InvoicerowNumber
+Installation Services;5;h;60;24;72.00;372.00;143143;1
+Replacement Products;10;kpl;105;24;252.00;1302.00;143143;2
+Keyboard Logitech;10;kpl;40.00;24;96.00;496.00;1543235;1
+Brother printer;1;kpl;65.00;24;15.60;80.60;1543235;2
+Installation Services;5;h;60;24;72.00;372.00;153143;1
+Replacement Products;10;kpl;105;24;252.00;1302.00;153143;2
+Cleaning Services;5;h;60;24;72.00;372.00;153143;3
+Cleaning Wipes;10;kpl;105;24;252.00;1302.00;153143;4
